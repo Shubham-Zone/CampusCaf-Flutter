@@ -44,46 +44,46 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBrozjHHZdybUAioeHyTc0m_rcDQT77BYU',
-    appId: '1:795741398084:web:5483351d70a4c478158811',
-    messagingSenderId: '795741398084',
-    projectId: 'cafetaria-797c0',
-    authDomain: 'cafetaria-797c0.firebaseapp.com',
-    databaseURL: 'https://cafetaria-797c0-default-rtdb.firebaseio.com',
-    storageBucket: 'cafetaria-797c0.appspot.com',
-    measurementId: 'G-61HHT6NMBR',
+    apiKey: 'YOUR_WEB_API_KEY',
+    appId: 'YOUR_WEB_APP_ID',
+    messagingSenderId: 'YOUR_WEB_MESSAGING_SENDER_ID',
+    projectId: 'YOUR_WEB_PROJECT_ID',
+    authDomain: 'YOUR_WEB_AUTH_DOMAIN',
+    databaseURL: 'YOUR_WEB_DATABASE_URL',
+    storageBucket: 'YOUR_WEB_STORAGE_BUCKET',
+    measurementId: 'YOUR_WEB_MEASUREMENT_ID',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCox-QALQPqINFxV8snNS3rPTxN6kyAYIE',
-    appId: '1:795741398084:android:d291816e85b39996158811',
-    messagingSenderId: '795741398084',
-    projectId: 'cafetaria-797c0',
-    databaseURL: 'https://cafetaria-797c0-default-rtdb.firebaseio.com',
-    storageBucket: 'cafetaria-797c0.appspot.com',
+    apiKey: 'YOUR_ANDROID_API_KEY',
+    appId: 'YOUR_ANDROID_APP_ID',
+    messagingSenderId: 'YOUR_ANDROID_MESSAGING_SENDER_ID',
+    projectId: 'YOUR_ANDROID_PROJECT_ID',
+    databaseURL: 'YOUR_ANDROID_DATABASE_URL',
+    storageBucket: 'YOUR_ANDROID_STORAGE_BUCKET',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyADTIQW9GBAzYh4dHGc7d2-VdcLufGIjUo',
-    appId: '1:795741398084:ios:9976834f8d0ed154158811',
-    messagingSenderId: '795741398084',
-    projectId: 'cafetaria-797c0',
-    databaseURL: 'https://cafetaria-797c0-default-rtdb.firebaseio.com',
-    storageBucket: 'cafetaria-797c0.appspot.com',
-    androidClientId: '795741398084-3409rq52mqvufvima3td3qm5c6f54bn3.apps.googleusercontent.com',
-    iosClientId: '795741398084-ef1q94l9ts84i4hn00h5gkcvgcp7le7b.apps.googleusercontent.com',
-    iosBundleId: 'com.example.flutterProjects',
+    apiKey: 'YOUR_IOS_API_KEY',
+    appId: 'YOUR_IOS_APP_ID',
+    messagingSenderId: 'YOUR_IOS_MESSAGING_SENDER_ID',
+    projectId: 'YOUR_IOS_PROJECT_ID',
+    databaseURL: 'YOUR_IOS_DATABASE_URL',
+    storageBucket: 'YOUR_IOS_STORAGE_BUCKET',
+    androidClientId: 'YOUR_ANDROID_CLIENT_ID',
+    iosClientId: 'YOUR_IOS_CLIENT_ID',
+    iosBundleId: 'YOUR_IOS_BUNDLE_ID',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyADTIQW9GBAzYh4dHGc7d2-VdcLufGIjUo',
-    appId: '1:795741398084:ios:9976834f8d0ed154158811',
-    messagingSenderId: '795741398084',
-    projectId: 'cafetaria-797c0',
-    databaseURL: 'https://cafetaria-797c0-default-rtdb.firebaseio.com',
-    storageBucket: 'cafetaria-797c0.appspot.com',
-    androidClientId: '795741398084-3409rq52mqvufvima3td3qm5c6f54bn3.apps.googleusercontent.com',
-    iosClientId: '795741398084-ef1q94l9ts84i4hn00h5gkcvgcp7le7b.apps.googleusercontent.com',
-    iosBundleId: 'com.example.flutterProjects',
+    apiKey: 'YOUR_MACOS_API_KEY',
+    appId: 'YOUR_MACOS_APP_ID',
+    messagingSenderId: 'YOUR_MACOS_MESSAGING_SENDER_ID',
+    projectId: 'YOUR_MACOS_PROJECT_ID',
+    databaseURL: 'YOUR_MACOS_DATABASE_URL',
+    storageBucket: 'YOUR_MACOS_STORAGE_BUCKET',
+    androidClientId: 'YOUR_MACOS_CLIENT_ID',
+    iosClientId: 'YOUR_MACOS_CLIENT_ID',
+    iosBundleId: 'YOUR_MACOS_BUNDLE_ID',
   );
 }
