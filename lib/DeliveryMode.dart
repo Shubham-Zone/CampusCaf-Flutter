@@ -126,39 +126,7 @@ class _DeliveryModePageState extends State<DeliveryModePage> {
     }
   }
 
-  // void sendPushMessage(String token, String body, String title) async {
-  //   try {
-  //     await http.post(
-  //       Uri.parse('https://fcm.googleapis.com/fcm/send'),
-  //       headers: <String, String>{
-  //         'Content-type': 'application/json',
-  //         'Authorization':
-  //         'key=AAAAuUXiJEQ:APA91bHhIMMpIefv42kJteKdqWXg4Sfku64ZzrnhEdw826n8oLIhx62Db7F8OU8PqIC8lqyz4akIrgooaGjX8lr4tXbREsLmmhcs7DNKun1mTCY7EpfJKvv3Ksdi3qjIyi2ci1zvQQVc'
-  //       },
-  //       body: jsonEncode(
-  //         <String, dynamic>{
-  //           'priority': 'high',
-  //           'data': <String, dynamic>{
-  //             'click-action': 'FLUTTER_NOTIFICATION_CLICK',
-  //             'Status': 'done',
-  //             'body': body,
-  //             'title': title,
-  //           },
-  //           "notification": <String, dynamic>{
-  //             "title": title,
-  //             "body": body,
-  //             "android_channel_id": "Cafeteria"
-  //           },
-  //           "to": token,
-  //         },
-  //       ),
-  //     );
-  //   } catch (e) {
-  //     if (kDebugMode) {
-  //       print("error push notification");
-  //     }
-  //   }
-  // }
+
 
   void sendPushMessage(String body,String title) async{
     try{
@@ -166,7 +134,7 @@ class _DeliveryModePageState extends State<DeliveryModePage> {
         Uri.parse('https://fcm.googleapis.com/fcm/send'),
         headers:<String,String>{
           'Content-type': 'application/json',
-          'Authorization': 'key=AAAAuUXiJEQ:APA91bHhIMMpIefv42kJteKdqWXg4Sfku64ZzrnhEdw826n8oLIhx62Db7F8OU8PqIC8lqyz4akIrgooaGjX8lr4tXbREsLmmhcs7DNKun1mTCY7EpfJKvv3Ksdi3qjIyi2ci1zvQQVc'
+          'Authorization': 'KEY'
 
         },
         body:jsonEncode(
