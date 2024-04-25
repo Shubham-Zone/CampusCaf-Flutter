@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "project_number": "795741398084",
+    "firebase_url": "https://cafetaria-797c0-default-rtdb.firebaseio.com",
+    "project_id": "cafetaria-797c0",
+    "storage_bucket": "cafetaria-797c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795741398084:android:197a508dccd12580158811",
+        "android_client_info": {
+          "package_name": "com.example.cafeteria_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795741398084-lbaq1cbotnd157h5r6p6g04thclsn4a6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cafeteria_admin",
+            "certificate_hash": "063c16175db7814eea135304e14a5ed4e38dc236"
+          }
+        },
+        {
+          "client_id": "795741398084-hlru17ti8vaevge5sj7p2ib2eoeebadq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCox-QALQPqINFxV8snNS3rPTxN6kyAYIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795741398084-hlru17ti8vaevge5sj7p2ib2eoeebadq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "795741398084-ef1q94l9ts84i4hn00h5gkcvgcp7le7b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterProjects"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795741398084:android:b8c6c164a8000f7c158811",
+        "android_client_info": {
+          "package_name": "com.example.cafeteriarider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795741398084-plpkrolutj9977v73i5dqm3vhlnsdc95.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cafeteriarider",
+            "certificate_hash": "063c16175db7814eea135304e14a5ed4e38dc236"
+          }
+        },
+        {
+          "client_id": "795741398084-hlru17ti8vaevge5sj7p2ib2eoeebadq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCox-QALQPqINFxV8snNS3rPTxN6kyAYIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795741398084-hlru17ti8vaevge5sj7p2ib2eoeebadq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "795741398084-ef1q94l9ts84i4hn00h5gkcvgcp7le7b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterProjects"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795741398084:android:e317ffdef0293052158811",
+        "android_client_info": {
+          "package_name": "com.shubhamdev.cafeteria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795741398084-7pbgceahi0j1f1oh8g7ork6dib34ug8t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shubhamdev.cafeteria",
+            "certificate_hash": "d1796b0d8b9f42d4a8666c497132eb394ad1eac6"
+          }
+        },
+        {
+          "client_id": "795741398084-jbhmj58i92n9lukhvfjd56usgere4cr6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shubhamdev.cafeteria",
+            "certificate_hash": "063c16175db7814eea135304e14a5ed4e38dc236"
+          }
+        },
+        {
+          "client_id": "795741398084-hlru17ti8vaevge5sj7p2ib2eoeebadq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCox-QALQPqINFxV8snNS3rPTxN6kyAYIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795741398084-hlru17ti8vaevge5sj7p2ib2eoeebadq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "795741398084-ef1q94l9ts84i4hn00h5gkcvgcp7le7b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterProjects"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

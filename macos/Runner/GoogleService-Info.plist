@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>795741398084-ef1q94l9ts84i4hn00h5gkcvgcp7le7b.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.795741398084-ef1q94l9ts84i4hn00h5gkcvgcp7le7b</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>795741398084-3409rq52mqvufvima3td3qm5c6f54bn3.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyADTIQW9GBAzYh4dHGc7d2-VdcLufGIjUo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>795741398084</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.flutterProjects</string>
+	<key>PROJECT_ID</key>
+	<string>cafetaria-797c0</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cafetaria-797c0.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:795741398084:ios:9976834f8d0ed154158811</string>
+	<key>DATABASE_URL</key>
+	<string>https://cafetaria-797c0-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
